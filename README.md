@@ -122,6 +122,7 @@ cross-link 자유: `[[../../Learning/research-japanese-tea/wiki/concepts/matcha-
 - [`ONBOARDING.md`](ONBOARDING.md) — **first-run integration of existing projects ⭐**
 - [`FOLDER-STRUCTURE.md`](FOLDER-STRUCTURE.md) — design rationale
 - [`TEMPLATE-SYNC.md`](TEMPLATE-SYNC.md) — **template ↔ personal vault sync workflow ⭐**
+- [`MULTI-AGENT-GUIDE.md`](MULTI-AGENT-GUIDE.md) — **multi-agent usage + token optimization ⭐**
 - [`templates/README.md`](templates/README.md) — template usage
 - [`templates/project/README.md`](templates/project/README.md) — per-project template details
 

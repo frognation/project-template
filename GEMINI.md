@@ -1,3 +1,4 @@
+<!-- AUTO-GENERATED from CLAUDE.md by scripts/sync-agent-configs.sh — do not edit / CLAUDE.md에서 자동 생성. 직접 수정 금지 -->
 # CLAUDE.md — Multi-Project Root Schema / 멀티 프로젝트 루트 스키마
 
 > This folder is a **multi-project hub** cloned from [`project-template`](https://github.com/frognation/project-template). Each subfolder (except `templates/`, `_shared/`, `_archive/`, underscored dirs) is an individual project.
